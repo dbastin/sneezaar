@@ -15,7 +15,7 @@
       top: 50%;
       left: 50%;
       margin-top: 50px;
-      margin-left: -510px;
+      margin-left: -310px;
     }
 
     div#hint {
@@ -23,7 +23,7 @@
       top: 50%;
       left: 50%;
       margin-top: 50px;
-      margin-left: -650px;
+      margin-left: -450px;
     }
 
     h1 {
